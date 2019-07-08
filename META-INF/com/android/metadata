@@ -1,0 +1,17 @@
+ota-downgrade=yes
+ota-id=OnePlus6Oxygen_22.O.27_GLO_027_1810260000
+ota-property-files=payload_metadata.bin:9933:118736,payload.bin:9933:1655182373,payload_properties.txt:1655192364:168,care_map.txt:946:201,compatibility.zip:1200:8686,metadata:69:829                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:9933:1655182373,payload_properties.txt:1655192364:168,care_map.txt:946:201,compatibility.zip:1200:8686,metadata:69:829                    
+ota-type=AB
+ota-wipe=yes
+ota_version=OnePlus6Oxygen_22.O.27_GLO_027_1810260000
+patch_type=1
+post-build=OnePlus/OnePlus6/OnePlus6:9/PKQ1.180716.001/1810252315:user/release-keys
+post-build-incremental=1810252315
+post-sdk-level=28
+post-security-patch-level=2018-11-01
+post-timestamp=8888888888
+pre-device=OnePlus6
+version_name=OnePlus6Oxygen_22_1810260000
+wipe=1
