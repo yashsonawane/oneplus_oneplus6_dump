@@ -1,0 +1,16 @@
+ota-id=OnePlus6Oxygen_22.D.01_GLO_001_1905032150
+ota-property-files=payload_metadata.bin:9069:118565,payload.bin:9069:1478797916,payload_properties.txt:1478807043:168,care_map.pb:927:744,compatibility.zip:1724:7298,metadata:69:811                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:9069:1478797916,payload_properties.txt:1478807043:168,care_map.pb:927:744,compatibility.zip:1724:7298,metadata:69:811                    
+ota-type=AB
+ota-wipe=yes
+ota_version=OnePlus6Oxygen_22.D.01_GLO_001_1905032150
+patch_type=1
+post-build=OnePlus/enchilada/OnePlus6:10/QKQ1.190406.002/1905032135:user/release-keys
+post-build-incremental=1905032135
+post-sdk-level=28
+post-security-patch-level=2019-05-05
+post-timestamp=1556891273
+pre-device=OnePlus6
+version_name=OnePlus6Oxygen_22_1905032150
+wipe=1
